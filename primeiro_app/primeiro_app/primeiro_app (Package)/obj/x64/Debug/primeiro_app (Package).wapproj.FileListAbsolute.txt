@@ -1,0 +1,45 @@
+C:\Users\chris\OneDrive\Área de Trabalho\Projetos WinUI3\primeiro_app\primeiro_app\primeiro_app (Package)\obj\x64\Debug\primeiro_app (Package).wapproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Área de Trabalho\Projetos WinUI3\primeiro_app\primeiro_app\primeiro_app (Package)\obj\x64\Debug\primeiro_app (Package).wapproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Área de Trabalho\Projetos WinUI3\primeiro_app\primeiro_app\primeiro_app (Package)\bin\x64\Debug\App.xbf
+C:\Users\chris\OneDrive\Área de Trabalho\Projetos WinUI3\primeiro_app\primeiro_app\primeiro_app (Package)\bin\x64\Debug\MainWindow.xbf
+C:\Users\chris\OneDrive\Área de Trabalho\Projetos WinUI3\primeiro_app\primeiro_app\primeiro_app (Package)\bin\x64\Debug\primeiro_app\Microsoft.InteractiveExperiences.Projection.dll
+C:\Users\chris\OneDrive\Área de Trabalho\Projetos WinUI3\primeiro_app\primeiro_app\primeiro_app (Package)\bin\x64\Debug\primeiro_app\Microsoft.WinUI.dll
+C:\Users\chris\OneDrive\Área de Trabalho\Projetos WinUI3\primeiro_app\primeiro_app\primeiro_app (Package)\bin\x64\Debug\primeiro_app\Microsoft.Windows.AppLifecycle.Projection.dll
+C:\Users\chris\OneDrive\Área de Trabalho\Projetos WinUI3\primeiro_app\primeiro_app\primeiro_app (Package)\bin\x64\Debug\primeiro_app\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll
+C:\Users\chris\OneDrive\Área de Trabalho\Projetos WinUI3\primeiro_app\primeiro_app\primeiro_app (Package)\bin\x64\Debug\primeiro_app\Microsoft.Windows.ApplicationModel.Resources.Projection.dll
+C:\Users\chris\OneDrive\Área de Trabalho\Projetos WinUI3\primeiro_app\primeiro_app\primeiro_app (Package)\bin\x64\Debug\primeiro_app\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll
+C:\Users\chris\OneDrive\Área de Trabalho\Projetos WinUI3\primeiro_app\primeiro_app\primeiro_app (Package)\bin\x64\Debug\primeiro_app\Microsoft.Windows.System.Power.Projection.dll
+C:\Users\chris\OneDrive\Área de Trabalho\Projetos WinUI3\primeiro_app\primeiro_app\primeiro_app (Package)\bin\x64\Debug\primeiro_app\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+C:\Users\chris\OneDrive\Área de Trabalho\Projetos WinUI3\primeiro_app\primeiro_app\primeiro_app (Package)\bin\x64\Debug\primeiro_app\runtimes\win10-arm64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\Users\chris\OneDrive\Área de Trabalho\Projetos WinUI3\primeiro_app\primeiro_app\primeiro_app (Package)\bin\x64\Debug\primeiro_app\runtimes\win10-x64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\Users\chris\OneDrive\Área de Trabalho\Projetos WinUI3\primeiro_app\primeiro_app\primeiro_app (Package)\bin\x64\Debug\primeiro_app\runtimes\win10-x86\native\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\Users\chris\OneDrive\Área de Trabalho\Projetos WinUI3\primeiro_app\primeiro_app\primeiro_app (Package)\bin\x64\Debug\primeiro_app\Microsoft.Windows.SDK.NET.dll
+C:\Users\chris\OneDrive\Área de Trabalho\Projetos WinUI3\primeiro_app\primeiro_app\primeiro_app (Package)\bin\x64\Debug\primeiro_app\WinRT.Runtime.dll
+C:\Users\chris\OneDrive\Área de Trabalho\Projetos WinUI3\primeiro_app\primeiro_app\primeiro_app (Package)\bin\x64\Debug\primeiro_app\primeiro_app.deps.json
+C:\Users\chris\OneDrive\Área de Trabalho\Projetos WinUI3\primeiro_app\primeiro_app\primeiro_app (Package)\bin\x64\Debug\primeiro_app\App.xbf
+C:\Users\chris\OneDrive\Área de Trabalho\Projetos WinUI3\primeiro_app\primeiro_app\primeiro_app (Package)\bin\x64\Debug\primeiro_app\MainWindow.xbf
+C:\Users\chris\OneDrive\Área de Trabalho\Projetos WinUI3\primeiro_app\primeiro_app\primeiro_app (Package)\bin\x64\Debug\primeiro_app\primeiro_app.exe
+C:\Users\chris\OneDrive\Área de Trabalho\Projetos WinUI3\primeiro_app\primeiro_app\primeiro_app (Package)\bin\x64\Debug\primeiro_app\primeiro_app.runtimeconfig.json
+C:\Users\chris\OneDrive\Área de Trabalho\Projetos WinUI3\primeiro_app\primeiro_app\primeiro_app (Package)\bin\x64\Debug\primeiro_app\primeiro_app.dll
+C:\Users\chris\OneDrive\Área de Trabalho\Projetos WinUI3\primeiro_app\primeiro_app\primeiro_app (Package)\bin\x64\Debug\primeiro_app\primeiro_app.pdb
+C:\Users\chris\OneDrive\Área de Trabalho\Projetos WinUI3\primeiro_app\primeiro_app\primeiro_app (Package)\bin\x64\Debug\resources.pri
+C:\Users\chris\OneDrive\Área de Trabalho\Projetos WinUI3\primeiro_app\primeiro_app\primeiro_app (Package)\bin\x64\Debug\AppxManifest.xml
+C:\Users\chris\OneDrive\Área de Trabalho\Projetos WinUI3\primeiro_app\primeiro_app\primeiro_app (Package)\bin\x64\Debug\primeiro_app (Package).build.appxrecipe
+C:\Users\chris\OneDrive\Área de Trabalho\Projetos WinUI3\primeiro_app\primeiro_app\primeiro_app (Package)\obj\x64\Debug\primeiro_app.pri.xml
+C:\Users\chris\OneDrive\Área de Trabalho\Projetos WinUI3\primeiro_app\primeiro_app\primeiro_app (Package)\obj\x64\Debug\priconfig.xml
+C:\Users\chris\OneDrive\Área de Trabalho\Projetos WinUI3\primeiro_app\primeiro_app\primeiro_app (Package)\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\chris\OneDrive\Área de Trabalho\Projetos WinUI3\primeiro_app\primeiro_app\primeiro_app (Package)\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\chris\OneDrive\Área de Trabalho\Projetos WinUI3\primeiro_app\primeiro_app\primeiro_app (Package)\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\chris\OneDrive\Área de Trabalho\Projetos WinUI3\primeiro_app\primeiro_app\primeiro_app (Package)\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\chris\OneDrive\Área de Trabalho\Projetos WinUI3\primeiro_app\primeiro_app\primeiro_app (Package)\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\chris\OneDrive\Área de Trabalho\Projetos WinUI3\primeiro_app\primeiro_app\primeiro_app (Package)\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\chris\OneDrive\Área de Trabalho\Projetos WinUI3\primeiro_app\primeiro_app\primeiro_app (Package)\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\chris\OneDrive\Área de Trabalho\Projetos WinUI3\primeiro_app\primeiro_app\primeiro_app (Package)\obj\x64\Debug\resources.resfiles
+C:\Users\chris\OneDrive\Área de Trabalho\Projetos WinUI3\primeiro_app\primeiro_app\primeiro_app (Package)\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\chris\OneDrive\Área de Trabalho\Projetos WinUI3\primeiro_app\primeiro_app\primeiro_app (Package)\obj\x64\Debug\pri.resfiles
+C:\Users\chris\OneDrive\Área de Trabalho\Projetos WinUI3\primeiro_app\primeiro_app\primeiro_app (Package)\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\chris\OneDrive\Área de Trabalho\Projetos WinUI3\primeiro_app\primeiro_app\primeiro_app (Package)\obj\x64\Debug\qualifiers.txt
+C:\Users\chris\OneDrive\Área de Trabalho\Projetos WinUI3\primeiro_app\primeiro_app\primeiro_app (Package)\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\chris\OneDrive\Área de Trabalho\Projetos WinUI3\primeiro_app\primeiro_app\primeiro_app (Package)\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\chris\OneDrive\Área de Trabalho\Projetos WinUI3\primeiro_app\primeiro_app\primeiro_app (Package)\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\chris\OneDrive\Área de Trabalho\Projetos WinUI3\primeiro_app\primeiro_app\primeiro_app (Package)\obj\x64\Debug\primeiro_app (Package).wapproj.LastBuild.txt

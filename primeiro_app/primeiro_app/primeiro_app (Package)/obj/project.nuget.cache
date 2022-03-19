@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hOAJ3q5p8vnkYl7yv5JeFUVRD8dHqIt2Lx7YXY6CP9JFwdt5QybR8ooNRxtEkwZYGrAwJNY+WvjO1bzJZcTs4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chris\\OneDrive\\Área de Trabalho\\Projetos WinUI3\\primeiro_app\\primeiro_app\\primeiro_app (Package)\\primeiro_app (Package).wapproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages\\microsoft.windows.sdk.buildtools\\10.0.22000.194\\microsoft.windows.sdk.buildtools.10.0.22000.194.nupkg.sha512",
+    "C:\\Users\\chris\\.nuget\\packages\\microsoft.windowsappsdk\\1.0.0\\microsoft.windowsappsdk.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
